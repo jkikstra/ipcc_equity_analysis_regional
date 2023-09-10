@@ -764,7 +764,7 @@ p.regions.decline.data.ipcc
 
 save_ggplot(
   p=p.regions.decline.data.ipcc,
-  f=here("figures","diana","Table1-jsk-improve-allC1234"),
+  f=here("figures","diana","Table1-jsk-moredetail-allC1234"),
   h=600
 )
 
@@ -965,7 +965,7 @@ p.figure2.jsk.allc1234.relgrowth
 
 save_ggplot(
   p=p.figure2.jsk.allc1234.relgrowth,
-  f=here("figures","diana","Figure2-jsk-improve-allc1234-relative-economic-growth"),
+  f=here("figures","diana","Figure2-jsk-moredetail-allc1234-relative-economic-growth"),
   h=400,
   w=300
 )
